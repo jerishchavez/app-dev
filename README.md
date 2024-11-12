@@ -1,3 +1,3 @@
 # app-dev
 # My first repository
-Spider Man is about a man who has the ability like a spider
+My favorite movie is **Spider Man** A bite from a spider somehow granted teenager Peter Parker its arachnid abilities and instead of using them for personal gain, he decided to help others with them
